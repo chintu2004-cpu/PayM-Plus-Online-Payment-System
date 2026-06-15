@@ -1,2 +1,16 @@
-# online-mulitple-payment-systems
-Developed an Online Multiple Payment System that supports various payment methods such as Credit/Debit Cards, UPI, and Net Banking. The system provides secure transaction processing and a user-friendly payment experience.
+# Online Multiple Payment System
+
+A Java-based payment processing application that supports multiple payment methods including UPI, Credit/Debit Cards, and Net Banking. The system generates transaction IDs, validates payment options, and provides transaction receipts.
+
+## Features
+- User Authentication Module
+- Multiple Payment Gateways
+- Transaction Management
+- Receipt Generation
+- Object-Oriented Design
+
+## Technologies
+- Java
+- OOP
+- Collections Framework
+- MySQL (Extendable)
